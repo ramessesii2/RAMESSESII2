@@ -30,8 +30,6 @@ I'm an undergrad pursuing bachelor of technology in Computer Science and Enginee
 <a href="https://github.com/ramessesII2">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramessesII2&show_icons=true&theme=dark&line_height=27" alt="Satyam's github stats"/>
 </a>
-<div align="center">
-
 
 
 </div>
