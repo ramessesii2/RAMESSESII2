@@ -11,7 +11,7 @@
   <img align="left" width="50px" src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" /> 
   </a><ins>stmbhardwaj@gmail.com</ins>
 <br><br><br>
-I'm an undergrad pursuing bachelor of technology in Computer Science and Engineerig. A software Engineer and 'am also an open-source enthusiast and maintainer. I've and I'm still learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+I'm an undergrad pursuing a bachelor of technology in Computer Science and Engineering. A software Engineer and 'am also an open-source enthusiast and maintainer. I've and I'm still learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 - 🌱 I’m currently working with Spring Boot and would love to collaborate on projects having similar stacks.
 -  👯 Always ready for Open Source Contribution.
