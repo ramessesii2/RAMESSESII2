@@ -1,7 +1,7 @@
 <!-- head -->
 <div >
   <div align="center">  
-    <img hight="200" width="400" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif">
+    <img hight="200" width="380" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif">
     <h3>Hey there! 👋😄<br>This is <ins>Satyam Bhardwaj</ins> <br></h3>
     <a href="mailto:stmbhardwaj@gmail.com">  
       <img align="center" width="145px" src="/assets/svg/social/gmail.svg" /> 
@@ -27,19 +27,19 @@
 ### I'm an undergrad pursuing a bachelor of technology in Computer Science and Engineering. A software Engineer and 'am also an open-source enthusiast and maintainer. <br>
 ### <i>I'm learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.</i>
 
-####  - 🌱 I’m currently working with Spring and would love to collaborate on projects having similar stacks.
-####  -  👯 Always ready for Open Source Contributions.
-####  -  😄 Pronouns: <i>He/him/his</i>
-####  - ⚡  Now that you're here, I'd love to challenge you at a blitz Chess game (chess.com handle-RII22).
+###  - 🌱 I’m currently working with Spring and would love to collaborate on projects having similar stacks.
+###  -  👯 Always ready for Open Source Contributions.
+###  -  😄 Pronouns: <i>He/him/his</i>
+###  - ⚡  Now that you're here, I'd love to challenge you at a blitz Chess game (chess.com handle-RII22).
 </br>
 
 <img hight="300" width="500" alt="GIF" align="right" src="/assets/gifs/deathNote.gif">
 
-  ###  - Hobbies : 
-- ✨ Chess
-- ✨ Watching Anime and Movies
-- ✨ Competitive Programming
-- ✨ Yoga and Exercise
+###     Hobbies : 
+###     - ✨ Chess
+###     - ✨ Watching Anime and Movies
+###     - ✨ Competitive Programming
+###     - ✨ Yoga and Exercise
 
 </br>
 </br>
@@ -77,13 +77,12 @@
 
 <!-- stats -->
 <a href="https://github.com/ramessesII2">
-  <img hight="200" width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramessesII2&theme=dark&hide_langs_below=1" />
+  <img hight="200" width="250" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramessesII2&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ramessesII2">
  <img align="right" hight="200" width="550" src="https://github-readme-stats.vercel.app/api?username=ramessesII2&show_icons=true&theme=radical&line_height=27" alt="Satyam's github stats"/>
 </a>
+</div>
 <div align="center">
 <img hight="400" width="350" alt="GIF" align="center" src="/assets/gifs/ninja.gif">
 </div>
-</div>
-
