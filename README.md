@@ -1,8 +1,8 @@
 <!-- head -->
 <div >
   <div align="center">  
-    <img hight="200" width="380" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif">
-    <h3>Hey there! 👋😄<br>This is <ins>Satyam Bhardwaj</ins> <br></h3>
+    <img hight="200" width="400" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif">
+    <h2>Hey there! 👋😄<br>This is <ins>Satyam Bhardwaj</ins> <br></h2>
     <a href="mailto:stmbhardwaj@gmail.com">  
       <img align="center" width="145px" src="/assets/svg/social/gmail.svg" /> 
     </a>
@@ -31,7 +31,6 @@
 ###  -  👯 Always ready for Open Source Contributions.
 ###  -  😄 Pronouns: <i>He/him/his</i>
 ###  - ⚡  Now that you're here, I'd love to challenge you at a blitz Chess game (chess.com handle-RII22).
-</br>
 
 <img hight="300" width="500" alt="GIF" align="right" src="/assets/gifs/deathNote.gif">
 
@@ -41,8 +40,6 @@
 ###     - ✨ Competitive Programming
 ###     - ✨ Yoga and Exercise
 
-</br>
-</br>
 </br>
 
 <!--   Techs and tools -->
@@ -57,8 +54,8 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"  width="120" hight="50">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="80" hight="50">
     <img src="./assets/svg/dev/languages/python.svg" alt="Python" width="140" hight="140">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="175" hight="80">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" width="195" hight="50">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="180" hight="80">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" width="205" hight="50">
   </br>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" width="145" hight="50">
     <img src="./assets/svg/dev/frameworks/angular.svg" alt="angular" width="160" hight="50">
@@ -84,5 +81,5 @@
 </a>
 </div>
 <div align="center">
-<img hight="400" width="350" alt="GIF" align="center" src="/assets/gifs/ninja.gif">
+<img hight="200" width="450" alt="GIF" align="center" src="/assets/gifs/ninja.gif">
 </div>
