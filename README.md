@@ -1,7 +1,7 @@
 <!-- head -->
 <div >
   <div align="center">  
-    <img hight="200" width="400" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif">
+<!--     <img hight="200" width="400" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif"> -->
     <h2>Hey there! 👋😄<br>This is <ins>Satyam Bhardwaj</ins> <br></h2>
     <a href="mailto:stmbhardwaj@gmail.com">  
       <img align="center" width="145px" src="/assets/svg/social/gmail.svg" /> 
@@ -24,10 +24,10 @@
   # About ME 💬 :
 
 <!-- <img hight="400" width="500" alt="GIF" align="right" src="https://giphy.com/gifs/death-note-light-yagami-EcnAlQcGnZq9y"> -->
-### I'm an undergrad pursuing a bachelor of technology in Computer Science and Engineering. A software Engineer and 'am also an open-source enthusiast and maintainer. <br>
-### <i>I'm learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.</i>
+### I'm an undergrad pursuing a bachelor of technology in Computer Science and Engineering. A software Engineer and an open-source enthusiast and maintainer. <br>
+### <i>I've learned a lot from the open-source community and love how collaboration and knowledge sharing happens through open-source.</i>
 
-###  - 🌱 I’m currently working with Spring and would love to collaborate on projects having similar stacks.
+###  - 🌱 I’m currently working with Golang and Cloud-native applications, and would love to collaborate on projects having similar stacks.
 ###  -  👯 Always ready for Open Source Contributions.
 ###  -  😄 Pronouns: <i>He/him/his</i>
 ###  - ⚡  Now that you're here, I'd love to challenge you at a blitz Chess game (chess.com handle-RII22).
