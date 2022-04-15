@@ -1,5 +1,5 @@
 <!-- head -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=83142C&height=160&section=header&text=Satyam Bhardwaj&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=39"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=83142C&height=180&section=header&text=Satyam Bhardwaj&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=39"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83142C&size=35&center=true&vCenter=true&width=1000&lines=Hey,+there!+👋;Cloud-native+Development?;Find+Me+:\);THNX+:%29)](https://git.io/typing-svg)
 
@@ -40,7 +40,7 @@
 
 </br>
 <h2 align="center">
-  <i>Main skills</i>
+  <i>Primary skills</i>
 </h2>
 <p align="center">
 <!-- Thanks to Vinamra28 for the gifs-->
@@ -59,31 +59,31 @@
   </a>
 </p>
 <h2 align="center">
-  <i>Other skills</i>
+  <i>Other Stuff </i>
 </h2>
  <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="60">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" height="60">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="60">
-    <img src="./assets/svg/dev/languages/python.svg" alt="Python" height="60">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="60">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"height="60">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="50">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" height="50">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="50">
+    <img src="./assets/svg/dev/languages/python.svg" alt="Python" height="50">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="50">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"height="50">
   </br>
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="60">
-    <img src="./assets/svg/dev/frameworks/angular.svg" alt="angular" height="60">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="50">
+    <img src="./assets/svg/dev/frameworks/angular.svg" alt="angular" height="50">
   </br>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-code" height="60">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-code" height="50">
     </br>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="60">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sql-lite" height="60">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="50">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sql-lite" height="50">
     </br>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="60">
-    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"  height="60">
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" height="60">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="50">
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"  height="50">
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" height="50">
 </p>
 </br>
-
+<hr>
 <!-- stats -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RAMESSESII2&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Satyam Bhardwaj github stats" /> 
