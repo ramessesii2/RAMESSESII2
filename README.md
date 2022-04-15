@@ -39,6 +39,29 @@
 # Languages & Tools 👨‍💻 🛠:
 
 </br>
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/RAMESSESII2/RAMESSESII2/main/assets/gifs/golang.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/RAMESSESII2/RAMESSESII2/main/assets/gifs/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/RAMESSESII2/RAMESSESII2/main/assets/gifs/k8s.gif"  height="75" />
+  </a>
+  <a href="https://tekton.dev/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/RAMESSESII2/RAMESSESII2/main/assets/gifs/tekton.png"  height="75" />
+  </a>
+ </p>
+
+ <p float="left">
+  <a href="https://www.oracle.com/java/technologies/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/java.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/vinamra28/vinamra28/master/assets/nodejs.gif"  height="80" /> 
+  </a>
+ </p>
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
