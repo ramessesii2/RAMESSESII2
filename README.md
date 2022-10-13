@@ -1,13 +1,13 @@
 <!-- head -->
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83142C&size=35&center=true&vCenter=true&width=1000&lines=Hey,+there!+👋;Cloud-native+Development?;Find+Me+:\);THNX+:%29)](https://git.io/typing-svg)
+-->
 
 <!-- thanks to NazarovAsadbek for herokuapp recommendations-->
 <div >
   <div align="center">  
 <!--     <img hight="200" width="400" alt="GIF" align="right" src="/assets/gifs/codeGeas2.gif"> -->
     <h2>
-   <i>Find me at ---> </i>
     <a href="mailto:stmbhardwaj@gmail.com">  
       <img align="center" width="120px" src="/assets/svg/social/gmail.svg" /> 
     </a>
@@ -84,10 +84,12 @@
 </br>
 <hr>
 <!-- stats -->
+<!--
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RAMESSESII2&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Satyam Bhardwaj github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMESSESII2&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+-->
 
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAMESSESII2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Satyam Bhardwaj" /></div>
