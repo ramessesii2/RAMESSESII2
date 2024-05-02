@@ -57,12 +57,12 @@
     <img src="https://raw.githubusercontent.com/RAMESSESII2/RAMESSESII2/main/assets/gifs/tekton.png"  height="85" />
   </a>
 </p>
-<h2 align="center">
+<!-- <h2 align="center">
   <i>Other Stuff </i>
 </h2>
- <p align="center">
+ <p align="center"> -->
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="50">
+<!--     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="50">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" height="50">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="50">
     <img src="./assets/svg/dev/languages/python.svg" alt="Python" height="50">
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="50">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"  height="50">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" height="50">
-</p>
+</p> -->
 </br>
 <hr>
 <!-- stats -->
