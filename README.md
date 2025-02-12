@@ -80,9 +80,10 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="50">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"  height="50">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM" height="50">
-</p> -->
+</p> 
 </br>
 <hr>
+-->
 <!-- stats -->
 <!--
 <div align="center">  
@@ -92,7 +93,7 @@
 -->
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAMESSESII2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Satyam Bhardwaj" /></div>
+<!-- <div align="center"><img height="auto" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RAMESSESII2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Satyam Bhardwaj" /></div> -->
 
 <!-- <div>
 <a href="https://github.com/ramessesII2">
@@ -103,6 +104,8 @@
 </a>
 </div>
 </br> -->
+<!--
 <div align="center">
 <img height="350" alt="GIF" align="center" src="/assets/gifs/ninja.gif">
 </div>
+-->
